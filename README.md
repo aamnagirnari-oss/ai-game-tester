@@ -4,14 +4,14 @@
 
 This project simulates AI agents navigating a grid-based game environment and evaluates their performance using visualization and data analysis.
 
----
+
 
 ##  Agents
 
 * Random Agent → moves randomly
 * Smart Agent → uses BFS (shortest path)
 
----
+
 
 ##  Features
 
@@ -21,7 +21,7 @@ This project simulates AI agents navigating a grid-based game environment and ev
 * Performance analysis using graphs
 * Heatmap of agent movement
 
----
+
 
 ##  Results
 
@@ -29,7 +29,7 @@ This project simulates AI agents navigating a grid-based game environment and ev
 * Higher success rate
 * Fewer steps
 
----
+
 
 ## Output
 
@@ -39,13 +39,13 @@ This project simulates AI agents navigating a grid-based game environment and ev
 
 ###  Performance Graph
 
-![Graph](graph.png)
+![Graph](graph (1).png)
 
 ###  Heatmap
 
 ![Heatmap](heatmap.png)
 
----
+
 
 ##  Tech Stack
 
@@ -54,11 +54,11 @@ This project simulates AI agents navigating a grid-based game environment and ev
 * Matplotlib
 * Pygame
 
----
+
 
 ##  Run
 
-```bash
+
 python main.py
 python performance_graph.py
 python game_visual.py
