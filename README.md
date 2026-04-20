@@ -39,7 +39,7 @@ This project simulates AI agents navigating a grid-based game environment and ev
 
 ###  Performance Graph
 
-![Graph](graph (1).png)
+![Graph](graph1 (2).png)
 
 ###  Heatmap
 
