@@ -1,0 +1,502 @@
+[
+    {
+        "random": {
+            "success": true,
+            "steps": 14
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 20
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 16
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 20
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 46
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 10
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 0
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 36
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 34
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 16
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 0
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 11
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 0
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 0
+        },
+        "smart": {
+            "success": false,
+            "steps": 0
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": false,
+            "steps": 50
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    },
+    {
+        "random": {
+            "success": true,
+            "steps": 24
+        },
+        "smart": {
+            "success": true,
+            "steps": 9
+        }
+    }
+]
